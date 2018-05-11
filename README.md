@@ -5,9 +5,8 @@ Magnet url can be  download by special software ,exp thunder uTorrent
 
 more pople downloading ,more time you will save
 
-let's get some picture about our project .
-
-
+here not  support database data ,data size of table  is to big,can not upload here
+please write spider by self to get data from other website.
 
 #database
 table search_filelist
@@ -132,6 +131,10 @@ searchd
         #workers                        = threads # for RT to work
 #       binlog_path             = /data/bt/index/binlog/
 ```
+
+
+let's get some picture about our project .
+
 
 ### home page
 ![](https://raw.githubusercontent.com/rhettli/magnet-php/master/pic/1.png)
